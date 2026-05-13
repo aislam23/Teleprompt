@@ -1,0 +1,11 @@
+build/
+.derivedData/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcscheme
+*.xccheckout
+.swp
+macos-app-release-agent.md
